@@ -23,4 +23,5 @@ Player Modules:
 [-] (S) Break Glasses (break glasses in "(S) Glass Jump" map. If you toggle it at the start, all the glasses will explode)     
 [-] Splot TP (take all the colors in the map "Splot")      Other: 
 [-] Fullbright (remove the darkness in "Dorm" mode, so allow you to see basically)               
-[-] ChatSpammer (the chat never closes after sending a message, so you can spam the text)  USAGE: - Open the game - Open the cheat when you are in the main menu   Currently Working for the version (1.36)  Have Fun guys ! (btw this took ages to make so please star this project!)
+[-] ChatSpammer (the chat never closes after sending a message, so you can spam the text)  USAGE: - Open the game - Open the cheat when you are in the main menu   Currently Working for the version (1.36)  Have Fun guys ! 
+                                             (btw this took ages to make so please star this project!)
